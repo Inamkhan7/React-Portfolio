@@ -7,7 +7,7 @@
 
 <br/>
 
-Responsive Portfolio Website Design Using HTML CSS &amp; JavaScript
+Responsive Portfolio Website Design Using React.Js CSS &amp; HTML
 
 - Smooth scrolling in each section.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
