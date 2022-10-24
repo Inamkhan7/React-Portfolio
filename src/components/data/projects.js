@@ -1,11 +1,10 @@
 export const ProjectData=[
     {
         id:1,
-        title:"Lisandro Martinez",
-        about: "This is a ramdom project I am using to React.JS,Javascript, HTML/CSS.This is portfolio website and I hope you are enjoying this portfolio.Make sure you like and comment if you have any doubt",
-        tags:["ReactJS", "Javascript", "Firebase", "Html/Css"],
-        demo:"https://github.com/ThantZinPhyo-OP/lisandromartinez",
-        github:"https://github.com/ThantZinPhyo-OP/lisandromartinez",
+        title:"Grégory Jaccottet - Redesign",
+        about: "En Cours",
+        tags:["ReactJS", "TypeScript", "Ghost CMS", "Html/Css"],
+        url:"https://www.gregoryjaccottet.com",
         image:"https://github.com/ThantZinPhyo-OP/lisandromartinez/raw/main/previews.png",
     },
     {
