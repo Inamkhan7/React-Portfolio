@@ -2,7 +2,7 @@ export const ProjectData = [
     {
         id: 1,
         title: "Portal Web Tamaska",
-        about: "En Cours",
+        about: "Portal web",
         tags: ["Bootstrap", "Jquery", "Json", "Html/Css"],
         url: "",
         image: "https://github.com/ThantZinPhyo-OP/lisandromartinez/raw/main/previews.png",
