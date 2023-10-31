@@ -1,8 +1,8 @@
 export const SocialData = [
     {
         platform: "Telegram",
-        icon: require("../../assets/icons/telegram.png"),
-        link: "https://web.telegram.org/k/",
+        icon: require("../../assets/icons/whatsapp.png"),
+        link: "https://wa.me/085317077634",
     },
     {
         platform: "Github",

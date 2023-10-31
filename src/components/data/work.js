@@ -1,8 +1,8 @@
 export const WorkData = [
     {
-        company: "Webdéveloppeur, freelance" ,
+        company: "Telkom Indonesia" ,
         designation: "Webdéveloppeur",
-        dateJoining: "2019",
+        dateJoining: "2021",
         dateEnd: "2022",
         companyLogo:"https://cdn-icons-png.flaticon.com/512/2537/2537338.png",
         work:"Sur demandes, Webdéveloppeur et conseil IT en freelance, notamment en Suisse",
@@ -22,13 +22,5 @@ export const WorkData = [
         dateEnd: "15.08.2022",
         companyLogo:"https://cdn-icons-png.flaticon.com/512/2537/2537415.png",
         work:"B2 Enseignant en Sciences Humaines, arrêté pour raisons médicales et reprise de l'activité d'informaticien"
-    },
-    {
-        company: "Intérim" ,
-        designation: "W",
-        dateJoining: "2016",
-        dateEnd: "Present",
-        companyLogo:"https://cdn-icons-png.flaticon.com/512/2537/2537415.png",
-        work:"Horéca, Ouvrier de production, Caissier, Technicien Polyvalent en constructions modulaires, Magasinier, Gardien de tournage, Runner Cinéma, Livreur de Matelas,..."
     }
 ]
